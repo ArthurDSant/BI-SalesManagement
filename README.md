@@ -1,5 +1,5 @@
 # Sales Management Dashboard in PowerBI
-![Print](https://github.com/user-attachments/assets/b2b6f2d6-0e6e-4f1d-b1d2-0028c67249e4)
+![Print](https://github.com/user-attachments/assets/2de38381-48a3-450d-9c7b-515aa2b42c62)
 
 This project is a dynamic dashboard designed for data visualization and presentation, aimed at supporting decision-making. It is built using Power BI and leverages .xlsx (Excel) files for data management and analysis.
 
